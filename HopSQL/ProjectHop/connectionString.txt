@@ -1,1 +1,0 @@
-Server=tcp:hopcity.database.windows.net,1433;Initial Catalog=HopDB;Persist Security Info=False;User ID=Dan;Password=Gouhado360;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
